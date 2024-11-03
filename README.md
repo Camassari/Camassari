@@ -21,4 +21,4 @@ Desenvolvedor backend em início de carreira, especializado em Django e apaixona
 - **Python e Django:** Melhores práticas e organização de projetos
 
 ## 📫 Vamos nos Conectar!
-- [Email](mailto:seu-email@example.com)
+- [Email](mailto:camassarienzo@gmail.com)
