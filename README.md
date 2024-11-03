@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Camassari
 
-<!--
-**Camassari/Camassari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend em início de carreira, especializado em Django e apaixonado por construir aplicações robustas e escaláveis.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript (básico)
+- **Frameworks:** Django
+- **Versionamento:** Git, GitHub
+- **Banco de Dados:** SQL (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos
+- Aperfeiçoar habilidades em backend e focar na criação e otimização de APIs
+- Aprender sobre estruturas de sistemas e escalabilidade
+
+## 🚀 Projetos em Destaque
+- **[Nome do Projeto 1](link-do-projeto):** Breve descrição das funcionalidades.
+- **[Nome do Projeto 2](link-do-projeto):** Breve descrição das funcionalidades.
+
+## 📚 Estudando Atualmente
+- **Backend:** Autenticação e estrutura de sistemas
+- **Python e Django:** Melhores práticas e organização de projetos
+
+## 📫 Vamos nos Conectar!
+- [Email](mailto:seu-email@example.com)
